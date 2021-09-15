@@ -1,5 +1,4 @@
 # Productivity-Prediction-of-Employees
-Regression problem predicting the productivity range of employees.
 
 <h2>TABLE OF CONTENTS</h2>
 
